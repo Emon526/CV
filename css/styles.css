@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+  margin: 15px;
+}
+
+.h1 {
+  color: #f2a154;
+}
+
+.h2 {
+  color: #aaaaaa;
+}
+
+.h3 {
+  color: Black;
+}
+
+hr {
+  color: black;
+  border-width: 2px;
+  border-style: solid;
+  border-top-style: solid;
+  border-bottom-style: none;
+}
+
+.box{
+  color: white;
+    background-color: #f2a154;
+    display: inline-block;
+    padding: 3px;
+    border-radius: 4px;
+    margin: 3px;
+}
